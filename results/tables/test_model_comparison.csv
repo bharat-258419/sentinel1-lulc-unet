@@ -1,0 +1,3 @@
+,OA,mIoU
+unet_scratch,0.7416,0.368
+unet_resnet34,0.737,0.3731

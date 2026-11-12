@@ -1,0 +1,40 @@
+{
+  "variant": "unet_resnet34",
+  "class_names": [
+    "Tree",
+    "Grass/Shrub",
+    "Cropland",
+    "Built-up",
+    "Bare/Sparse",
+    "Water",
+    "Wetland"
+  ],
+  "class_colors": [
+    "#006400",
+    "#ffbb22",
+    "#f096ff",
+    "#fa0000",
+    "#b4b4b4",
+    "#0064c8",
+    "#0096a0"
+  ],
+  "band_order": [
+    "VV",
+    "VH",
+    "VV_VH"
+  ],
+  "mean": [
+    -9.552960395812988,
+    -16.784591674804688,
+    7.160259246826172
+  ],
+  "std": [
+    4.750990867614746,
+    5.090599060058594,
+    2.1825106143951416
+  ],
+  "patch_size": 256,
+  "scale_m": 10,
+  "crs": "EPSG:3035",
+  "training_year": 2021
+}

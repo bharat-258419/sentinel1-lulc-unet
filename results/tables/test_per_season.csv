@@ -1,0 +1,5 @@
+season,OA,mIoU
+Winter (Jan),0.7365,0.3772
+Spring (Apr),0.7436,0.3768
+Summer (Jul),0.7335,0.3633
+Autumn (Oct),0.7343,0.3753

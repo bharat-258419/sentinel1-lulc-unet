@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large files (download from Google Drive, see README)
+*.pt
+*.pth
+*.tif
+*.npz
+data/
+
+# Local prototype outputs
+prototype/results_*/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

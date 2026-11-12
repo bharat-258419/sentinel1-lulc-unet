@@ -1,0 +1,8 @@
+,train (%),val (%),test (%)
+Tree,28.04,42.32,37.59
+Grass/Shrub,13.83,7.2,9.71
+Cropland,17.44,6.8,1.72
+Built-up,28.58,42.29,44.38
+Bare/Sparse,0.36,0.26,0.21
+Water,7.56,1.1,6.3
+Wetland,4.19,0.03,0.09
