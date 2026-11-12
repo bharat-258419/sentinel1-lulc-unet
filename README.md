@@ -235,7 +235,3 @@ Then open <http://localhost:8501>, choose a location and a start month, and clic
 5. O. Ronneberger, P. Fischer, T. Brox, "U-Net: Convolutional networks for biomedical image segmentation," MICCAI, 2015.
 6. K. He et al., "Deep residual learning for image recognition," CVPR, 2016.
 7. P. Iakubovskii, *Segmentation Models PyTorch*, GitHub, 2019.
-
----
-
-**Author:** Bharat Manjunath Gangolli
