@@ -8,9 +8,6 @@ Semantic segmentation of land use and land cover (LULC) using **only Sentinel-1 
   <img src="results/case_study_mannheim/lulc_maps_12_months.png" width="85%" alt="12 monthly LULC maps of Mannheim">
 </p>
 
-> Course project – *Data Analytics 3: Predictive Analytics and Deep Learning*, M.Sc. Applied Data Science and Analytics, SRH University (2026).
-> Full report: [`docs/LULC_Report.pdf`](docs/LULC_Report.pdf)
-
 ---
 
 ## Contents
@@ -241,4 +238,4 @@ Then open <http://localhost:8501>, choose a location and a start month, and clic
 
 ---
 
-**Author:** Bharat Manjunath Gangolli · M.Sc. Applied Data Science and Analytics, SRH University
+**Author:** Bharat Manjunath Gangolli
